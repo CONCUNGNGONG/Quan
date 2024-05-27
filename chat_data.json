@@ -1,0 +1,32 @@
+{
+    "conversations": [
+        {
+            "user": "Hello",
+            "bot": "Hi there! How can I assist you today?"
+        },
+        {
+            "user": "Hi",
+            "bot": "Hello! How can I help you today?"
+        },
+        {
+            "user": "Good morning",
+            "bot": "Good morning! What can I do for you today?"
+        },
+        {
+            "user": "Good afternoon",
+            "bot": "Good afternoon! How can I assist you?"
+        },
+        {
+            "user": "Good evening",
+            "bot": "Good evening! What can I help you with?"
+        },
+        {
+            "user": "Thanks",
+            "bot": "You are welcome!"
+        },
+        {
+            "user": "Goodbye",
+            "bot": "See you again"
+        }
+    ]
+}
